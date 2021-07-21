@@ -1,0 +1,4 @@
+User-agent: Yandex
+Allow: /
+Sitemap: https://tresltd.ru/sitemap.xml
+Host: https://tresltd.ru
